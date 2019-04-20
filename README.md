@@ -1,2 +1,2 @@
 # Blog
-Record my learning journery!!!
+记录我的学习之旅。
